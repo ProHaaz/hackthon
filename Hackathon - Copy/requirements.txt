@@ -1,0 +1,6 @@
+pyserial
+pyautogui
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+pynput==1.7.6
